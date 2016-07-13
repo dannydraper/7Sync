@@ -1,0 +1,17 @@
+obj\Debug\FileCopyProgress.exe
+obj\Debug\FileCopyProgress.pdb
+bin\Debug\FileCopyProgress.exe
+bin\Debug\FileCopyProgress.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileCopyProgress.Form1.resources
+obj\Debug\FileCopyProgress.Properties.Resources.resources
+obj\Debug\FileCopyProgress.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FileCopyProgress.Form1.resources
+obj\Release\FileCopyProgress.csproj.GenerateResource.Cache
+obj\Release\FileCopyProgress.SyncJob.resources
+obj\Release\SyncV7.exe
+obj\Release\SyncV7.pdb
+bin\Release\SyncV7.exe
+bin\Release\SyncV7.pdb
+obj\Release\SyncV7.Properties.Resources.resources

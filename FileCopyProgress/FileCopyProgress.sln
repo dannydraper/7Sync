@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCopyProgress", "FileCopyProgress\FileCopyProgress.csproj", "{3938C2FF-4691-45BA-B168-FADC88977DE0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "7SyncSetup", "7SyncSetup\7SyncSetup.vdproj", "{83941788-D5C0-4E30-8568-159599169F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3938C2FF-4691-45BA-B168-FADC88977DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3938C2FF-4691-45BA-B168-FADC88977DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3938C2FF-4691-45BA-B168-FADC88977DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3938C2FF-4691-45BA-B168-FADC88977DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83941788-D5C0-4E30-8568-159599169F6E}.Debug|Any CPU.ActiveCfg = Debug
+		{83941788-D5C0-4E30-8568-159599169F6E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+ensure progress bar value and max and min values are checked before being set into the control
+ensure a timed job cannot start while a sync is in progress
+investigate massive files such as Windows 7 RC1 and as to why it didn't copy
+Look at placing a temp file on same directory with same name at beginning of file copy to indicate file copy in progress - if it's still there next time round, then file did not complete.
